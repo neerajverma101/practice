@@ -1,4 +1,4 @@
-const input = 9;
+const input = 5;
 //output: [0,1,1,2,3]
 export const fibo = (n) => {
   console.log("input", n);
